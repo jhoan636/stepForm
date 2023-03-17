@@ -15,5 +15,5 @@ This template should help get you started developing with Vue 3 in Vite. The tem
  https://tailwindcss.com/docs/installation
 
  ## Instalar axios ya que los paises se traen por medio de una Api
-
- Nota: El codigo puede mejora generar componentes para cada uno de las partes de un formularios y comunicar los formularios, como indique en la entrevista el framework que manejo en angular pero la di toda para sacarlo en vue.js pero se puede mejorar mucho
+    - npm install --save axios vue-axios
+ Nota: El codigo puede mejora generar componentes para cada uno de las partes de un formularios y comunicar los formularios, como indique en la entrevista el framework que manejo es angular pero la di toda para sacarlo en vue.js pero se puede mejorar mucho
